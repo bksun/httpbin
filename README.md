@@ -1,7 +1,7 @@
 # httpbin(1): HTTP Request & Response Service
 
 
-A [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
+A Very Awesome Contribution In Python [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
 
 ![ice cream](http://farm1.staticflickr.com/572/32514669683_4daf2ab7bc_k_d.jpg)
 
