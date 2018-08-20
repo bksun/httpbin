@@ -1,12 +1,14 @@
 # httpbin(1): HTTP Request & Response Service
 
 
-A Very Awesome Contribution In Python [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
+A Very Awesome Contribution In Python - [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
+
+This project I will be using for teaching purpose.
 
 ![ice cream](http://farm1.staticflickr.com/572/32514669683_4daf2ab7bc_k_d.jpg)
 
 Run locally:
-```sh
+sh
 docker pull kennethreitz/httpbin
 docker run -p 80:80 kennethreitz/httpbin
 ```
